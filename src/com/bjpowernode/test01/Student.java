@@ -7,4 +7,5 @@ package com.bjpowernode.test01;
 public class Student {
 
     private String id;
+    private String name;
 }
